@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ListViewLunchAndLearn</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Add Fruit</string>
+    <string name="title_activity_fruit_name_list">Fruits</string>
+
+</resources>
